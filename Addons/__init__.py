@@ -1,1 +1,1 @@
-
+from NText import *
