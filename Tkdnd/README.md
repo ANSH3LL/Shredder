@@ -1,4 +1,4 @@
-#Tkdnd Installation
+## Tkdnd Installation
 
 1. Extract the "tkdnd2.8-win32-ix86.tar.gz" archive
 
@@ -10,4 +10,4 @@
 
 5. Installation complete
 
-6. To use the libraries, add <code>from TkinterDnD2 import *</code> to your code
+6. To use the libraries, add `from TkinterDnD2 import *` to your code
