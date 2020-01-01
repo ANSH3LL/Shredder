@@ -1,8 +1,7 @@
 # Shredder
-Simple file shredding utility that may or may not be secure enough to use in real life
+Simple file shredding utility built with python 2.7 and my custom window manager; `Abstraktion`
 
-#### This repo was tested on python 2.7 and probably won't work with other versions
-
+#### Prerequisites
 Install Tkdnd using the instructions in the Tkdnd README then run `Shredder.py` or build using pyinstaller
 
 ![Shredder](shredder.png)
